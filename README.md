@@ -5,7 +5,7 @@ how to run?
 * for linux
 
 ```js
-java java cn.xl.xunlei
+java cn.xl.xunlei
 ```
 
 * for windows
