@@ -14,3 +14,6 @@ java java cn.xl.xunlei
 ./execute.bat
 ```
 
+see see here:
+
+https://blog.csdn.net/xzwdev/article/details/102773790
