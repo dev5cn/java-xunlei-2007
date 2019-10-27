@@ -1,5 +1,7 @@
 # java-xunlei-2007
 
+support jdk1.4 or later.
+
 how to run?
 
 * for linux
